@@ -1,0 +1,47 @@
+/* src/components/GameLibrary.css */
+.game-library {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #f5f5f5;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: left;
+    transition: transform 0.3s ease-in-out;
+  
+    /* Hover effect */
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  .card h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .card p {
+    color: #666;
+  }
+  
+  .card ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .card li {
+    margin-bottom: 5px;
+    color: #888;
+  }
