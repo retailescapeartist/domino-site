@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/domino-site/static/css/main.23b489ae.css",
+    "main.js": "/domino-site/static/js/main.083ccb16.js",
+    "index.html": "/domino-site/index.html",
+    "main.23b489ae.css.map": "/domino-site/static/css/main.23b489ae.css.map",
+    "main.083ccb16.js.map": "/domino-site/static/js/main.083ccb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b489ae.css",
+    "static/js/main.083ccb16.js"
+  ]
+}
